@@ -1,7 +1,7 @@
 import random
 import googlesearch
 
-google_API='GCP2452'
+google_API='GCPAPI'
 
 # Create a list of possible responses
 responses = ["Hi there! How can I help you today?", "What can I do for you?", "What's on your mind?"]
